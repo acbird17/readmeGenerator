@@ -1,8 +1,8 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-  # lskdjf
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # README
 
 ## Description
-slkdjf
+This is a command line application that was created to streamline the process of making a readme.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,18 +12,18 @@ slkdjf
 - [Questions](#questions)
 
 ## Installation
-lskdjf
+Open your terminal and type `npm i` and hit enter. Once the required libraries are installed type `node index.js` to start the application and follow along with the prompts. Once completed the file named 'generatedREADME' will be created for you to use for your current project.
 ## Image
  
- <img src="./sldkfj" width="250px"></img>
+ <img src="./utils/readme.jpg" width="600px"></img>
  
 ## License
-<a href="https://www.gnu.org/licenses/gpl-3.0">GNU </a>
+<a href="https://opensource.org/licenses/MIT">MIT </a>
 ## Contributing
-slkdjf
+n/a
 ## Tests
-slkdjf
+n/a
 ## Questions
-You can contact me at slkdfj or slkdjf.
+You can contact me by email at alex.bird@du.edu or on Github at acbird17.
   
     

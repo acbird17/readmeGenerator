@@ -49,7 +49,8 @@ function userPrompt() {
     },
     {
       type: "input",
-      message: "Please insert an image link.",
+      message:
+        "Please insert a local image link. (example: utils/images/test.jpg)",
       name: "image",
     },
   ];

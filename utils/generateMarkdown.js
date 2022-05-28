@@ -50,7 +50,7 @@ ${data.description}
 ${data.install}
 ## Image
  
- <img src="./${data.image}" width="250px"></img>
+ <img src="./${data.image}" width="600px"></img>
  
 ## License
 <a href="` +
